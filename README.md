@@ -5,6 +5,8 @@ Table of Contents
   - [Background  ](#background--)
   - [My IT journey  ](#my-it-journey--)
   - [Specializations ](#specializations-)
+  - [Know about me ](#know-about-me-)
+
 
 
 ## Background  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/comment.svg" width="50" height="50"> 
@@ -27,3 +29,6 @@ I joined the first company as Webtunix Solution Private Limited, Mohali in the y
   <li> Anlaysing and filtering valuable information from social media using knowledge graph</li>
 </ol> 
 
+## Know about me  
+To know what IT professionals think about me, I would encourage readers to read the social media testimonials from the below link  
+[Social media Testimonial](https://ersanpreet.wordpress.com/social-media-testimonials/)
